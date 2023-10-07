@@ -53,6 +53,7 @@ label_bet.grid(row=3, column=0)
 entry_player1_name = tk.Entry(window, width=50)
 entry_player1_name.grid(row=1, column=1)
 
+
 entry_player1_password = tk.Entry(window, show='*', width=50)
 entry_player1_password.grid(row=2, column=1)
 
