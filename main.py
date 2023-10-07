@@ -50,6 +50,7 @@ label_choice.grid(row=4, column=0)
 label_bet = tk.Label(window, text="Bet amount:")
 label_bet.grid(row=3, column=0)
 
+
 entry_player1_name = tk.Entry(window, width=50)
 entry_player1_name.grid(row=1, column=1)
 
